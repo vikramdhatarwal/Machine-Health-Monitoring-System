@@ -30,16 +30,6 @@ The system helps in **predictive maintenance, fault detection, and reducing mach
 
 ---
 
-## 👨‍💻 My Contribution
-
-* Component selection and hardware design
-* Circuit design and sensor integration
-* ESP32 programming and debugging
-* Sensor calibration and testing
-* IoT data pipeline implementation
-* System validation and deployment
-
----
 
 ## 🔌 Hardware Components
 
